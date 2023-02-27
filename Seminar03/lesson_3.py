@@ -71,3 +71,5 @@ for item in my_list: # item - элементы
         
 print(new_list)
 
+
+
